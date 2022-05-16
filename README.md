@@ -1,4 +1,4 @@
-# calendarUpdate
+# Calendar Automator
 
 This python app has the following features:
 
