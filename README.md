@@ -1,4 +1,4 @@
-# Calendar Automator
+# Calendar Automator for Google Calendar
 
 This python app has the following features:
 
